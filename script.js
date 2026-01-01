@@ -7,7 +7,7 @@
 // Altere também as frases para as que você deseja.
 
 const cardsData = [
-    { id: 1,  img: 'retiro26/foto1.png', text: 'Fluir en el proceso.' },
+    { id: 1,  img: 'foto1.png', text: 'Fluir en el proceso.' },
     { id: 2,  img: 'virtudes/foto2.png', text: 'Fluir en la vida misma.' },
     { id: 3,  img: 'virtudes/foto3.png', text: 'Fluir hacia la conexión.' },
     { id: 4,  img: 'virtudes/foto4.png', text: 'Fluir en la renuncia integral.' },
