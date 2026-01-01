@@ -8,16 +8,16 @@
 
 const cardsData = [
     { id: 1,  img: 'foto1.png', text: 'Fluir en el proceso.' },
-    { id: 2,  img: 'virtudes/foto2.png', text: 'Fluir en la vida misma.' },
-    { id: 3,  img: 'virtudes/foto3.png', text: 'Fluir hacia la conexión.' },
-    { id: 4,  img: 'virtudes/foto4.png', text: 'Fluir en la renuncia integral.' },
-    { id: 5,  img: 'virtudes/foto5.png', text: 'Fluir en la instrospección.' },
-    { id: 6,  img: 'virtudes/foto6.png', text: 'Fluir en la atención.' },
-    { id: 7,  img: 'virtudes/foto7.png', text: 'Fluir en Egoencia.' },
-    { id: 8,  img: 'virtudes/foto8.png', text: 'Fluir en Presencia.' },
-    { id: 9,  img: 'virtudes/foto9.png', text: 'Fluir en la unidad.' },
-    { id: 10, img: 'virtudes/foto10.png', text: 'Fluir en Transcendencia.' },
-    { id: 11, img: 'virtudes/foto11.png', text: 'Fluir con amor.' }
+    { id: 2,  img: 'foto2.png', text: 'Fluir en la vida misma.' },
+    { id: 3,  img: 'foto3.png', text: 'Fluir hacia la conexión.' },
+    { id: 4,  img: 'foto4.png', text: 'Fluir en la renuncia integral.' },
+    { id: 5,  img: 'foto5.png', text: 'Fluir en la instrospección.' },
+    { id: 6,  img: 'foto6.png', text: 'Fluir en la atención.' },
+    { id: 7,  img: 'foto7.png', text: 'Fluir en Egoencia.' },
+    { id: 8,  img: 'foto8.png', text: 'Fluir en Presencia.' },
+    { id: 9,  img: 'foto9.png', text: 'Fluir en la unidad.' },
+    { id: 10, img: 'foto10.png', text: 'Fluir en Transcendencia.' },
+    { id: 11, img: 'foto11.png', text: 'Fluir con amor.' }
 ];
 // ==============================================================================
 
